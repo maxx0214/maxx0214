@@ -16,29 +16,27 @@
 
 I am an undergraduate student majoring in Human-Centered AI at Sangmyung University. My interests lie in building and evaluating reliable AI systems, with a focus on large language models, retrieval-augmented generation, and reinforcement learning.
 
-I am also interested in applying machine learning to healthcare, particularly in analyzing wearable and biomedical data.
+I am also interested in applying machine learning to healthcare
 
 ## Research Interests
 
 - LLM Evaluation & Trustworthy AI
-- Retrieval-Augmented Generation (RAG)
+- RAG
 - AI Agents & Reinforcement Learning
-- Healthcare AI & Biomedical Data Analysis
+- Healthcare AI
 
 ## Featured Projects
 
 | Project | Focus |
 | :--- | :--- |
-| [LLMGuard CI](https://github.com/maxx0214/llmguard-ci) | LLM evaluation, regression testing, automated quality gates, and CI integration |
+| [Turini](https://github.com/orgs/team-TURINI/repositories) | Hybrid RAG pipeline, multi-turn retrieval, and LLM evaluation for financial education |
 | [MESA Sleep Variability](https://github.com/maxx0214/mesa-sleep-dataset-python-actigraphy-epworth) | Actigraphy-based sleep variability and daytime sleepiness research |
 | [Penalty Shootout RL](https://github.com/maxx0214/Unity-adversarial-PPO-PenaltyRL) | Multi-agent reinforcement learning with adversarial PPO and self-play |
-| [vLLM One-click Eval](https://github.com/maxx0214/vllm-oneclick-eval) | LLM inference benchmarking, smoke testing, and quality evaluation |
-| [Biomedical Data ML](https://github.com/maxx0214/biomedical-data-ml) | Biomedical classification, CNN experiments, and Grad-CAM visualization |
-| [Smart Warehouse Delay Prediction](https://github.com/maxx0214/smart-warehouse-delay-prediction) | Time-series feature engineering, LightGBM, and group-aware validation |
+
 
 ## Open Source
 
-- [Ragas](https://github.com/vibrantlabsai/ragas) — Contributions to an open-source LLM evaluation framework.
+- [Ragas](https://github.com/vibrantlabsai/ragas) — Contributions to an open-source LLM evaluation framework (PR under review). 
 
 ## Technical Focus
 
