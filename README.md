@@ -48,7 +48,7 @@ My work spans LLM evaluation, retrieval-augmented generation, reinforcement lear
       <h3>03 · <a href="https://github.com/maxx0214/Unity-adversarial-PPO-PenaltyRL">Penalty Shootout RL</a></h3>
       <sub><strong>REINFORCEMENT LEARNING</strong></sub>
       <p>A competitive multi-agent penalty shootout environment using adversarial PPO and self-play in Unity.</p>
-      <img alt="PPO" src="https://img.shields.io/badge/PPO-245C73?style=flat-square" /> <img alt="Multi--Agent RL" src="https://img.shields.io/badge/Multi----Agent%20RL-183C60?style=flat-square" />
+      <img alt="PPO" src="https://img.shields.io/badge/PPO-245C73?style=flat-square" /> <img alt="Multi-Agent RL" src="https://img.shields.io/badge/Multi--Agent%20RL-183C60?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>Explore more</h3>
